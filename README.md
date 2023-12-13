@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <br>
 <p align="center">
-                <a href="https://linkedin.com/in/sergiotarragajimenez">
+                <a href="https://www.linkedin.com/in/sergio-t%C3%A1rraga-jim%C3%A9nez-ba127a243/">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                 </a>
 </p>
