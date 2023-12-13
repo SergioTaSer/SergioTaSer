@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 📫 How to reach me **staserj02@gmail.com**
 
