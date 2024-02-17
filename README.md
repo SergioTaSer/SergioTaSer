@@ -12,7 +12,7 @@
 <td>
 <img align="top" height="195"
                 src="https://github-readme-stats.vercel.app/api?username=sergiotaser&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"
-                alt="joseramonmartinez" />
+                 />
 </td>
 <td>
 <img align="top" height="195"
